@@ -1,5 +1,5 @@
 
-# WeRateDogs Tweet Analysis
+# Tweets Analysis (WeRate Dogs)
 
 ## Table of Contents
 <ul>
